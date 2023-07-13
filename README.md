@@ -18,6 +18,7 @@ Environnement de programmation en ligne avec Visual Code, pour la MP2I
 <img src=https://user-images.githubusercontent.com/49362475/253306515-0e3f66a4-2d5d-41dc-8d16-dde621f4bbe7.png width=1000>
 Il faut ensuite écrire un message pour décrire vos modifications et synchroniser :
 <img src=https://user-images.githubusercontent.com/49362475/253306530-c02f26af-829c-4c6b-9089-735a3e032b81.png width=1000>
+Vos modifications sont alors sauvegardées.
 
 ## Récupérer les mises à jour du professeur
 
