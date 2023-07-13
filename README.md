@@ -1,5 +1,5 @@
-# mp2i
-Codespace permettant de programmer en ligne en C et OCaml avec Visual Code
+# Codespace MP2I (OCaml, C)
+Environnement de programmation en ligne avec Visual Code, pour la MP2I
 
 - Créer un compte GitHub
 - (Optionnel) Pour les élèves et professeurs : profiter d'un compte Pro, gratuit et donnant droit à 180h/mois et 20Go
