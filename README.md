@@ -1,6 +1,7 @@
 # Codespace MP2I (OCaml, C)
 
-Environnement de programmation en ligne avec Visual Code, pour la MP2I
+Environnement de programmation en ligne avec Visual Code, pour la MP2I.  
+[Image Docker](https://github.com/fortierq/devcontainers/blob/master/ocaml/debian/Dockerfile)
 
 ## Mise en route
 
